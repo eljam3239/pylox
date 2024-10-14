@@ -1,4 +1,5 @@
 import sys
+import scanner as sc
 
 class Lox:
     had_error = False
